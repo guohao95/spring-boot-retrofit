@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-org.azhon.retrofit.core.RetrofitAutoConfiguration
+org.azhon.retrofit.core.RetrofitAutoConfiguration,\
+org.azhon.retrofit.hystrix.HystrixAutoConfiguration
